@@ -9,8 +9,19 @@ html,body
 
 body {
 	font-size: 200%;
+	font-weight: normal;
 }
 
+.bold {
+	font-weight: 1000;
+	color: red;
+}
+
+.main_title {
+	padding-left: 12%;
+	padding-right: 12%; 
+	color: rgb(50, 0, 0);
+}	
 .main_letters_1 {
 	display: inline-block;
 	text-align: center;
@@ -34,5 +45,26 @@ body {
 
 
 .second_title {
+	font-family: arial;
+	color: rgb(0,0,0);
 	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.info {
+	font-family: arial;
+	color: rgb(0,0,50);
+	text-align: left;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.donate {
+	font-size: 50%;
+	font-family: arial;
+	color: rgb(0,0,0);
+	text-align: left;
+	padding-left: 20%;
+	padding-right: 20%;
 }
