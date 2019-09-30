@@ -32,7 +32,7 @@ body {
 
 .main_title {
 	position: relative;
-	bottom: 38%;	
+	bottom: 42%;	
 	margin-left: 0%;
 	margin-right: 0%; 
 	margin-top: 20%;
@@ -41,7 +41,7 @@ body {
 	background-color: rgba(63, 51, 43, 80%);
 	border: 0px solid black;
 	
-	padding: 0% 15% 0% 10%;
+	padding: 0% 10% 0% 5%;
 
 }	
 .main_letters_1 {
@@ -58,7 +58,7 @@ body {
 	display: inline-block;
 	text-align: left;
 	font-size: 100%;
-	width: 11.5%;
+	width: 12%;
 }
 #last_word {
 	display: inline-block;
